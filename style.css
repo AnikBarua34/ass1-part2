@@ -1,5 +1,55 @@
+.section1border{
+    display: flex;
+    margin: 2%;
+}
 
+.div1{
+    margin-top: 5%;
+}
 
+.div1h1{
+    font-size: 50px;
+
+}
+.div2{
+    padding-left: 15%;
+}
+
+.div3{
+    margin-top: 5%;
+    padding-left: 15%;
+}
+.div4{
+    padding-left: 15%;
+    margin-top: 8%;
+}
+
+.div5{
+    text-align: center;
+    margin-top: 5%;
+}
+
+.section2border{
+    display: flex;
+    background:url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin:auto;
+}
+
+.button{
+    color:white;
+    background: orange;
+    background-image: linear-gradient(orange,Tomato);
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 20px;
+    font-weight: 500;
+}
+
+.recipies{
+    color: gray;
+}
 .foot{
     text-align: center;
     background: black;
