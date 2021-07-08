@@ -1,0 +1,54 @@
+
+
+.foot{
+    text-align: center;
+    background: black;
+    padding: 2%;
+    
+
+}
+.footer-food{
+    color: orange;
+}
+#foot-text-color{
+    color:white;
+}
+
+.network{
+    color:gray;
+}
+
+.border{
+    display: flex;
+    margin: 10%;
+
+}
+.item1{
+    box-shadow: gray 10px 10px 30px;
+    width: 300px;
+    border: 15px;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 15px;
+    
+}
+
+
+.bonus-border{
+    box-shadow: 1px 1px 5px gray;
+    display: flex;
+    margin: 10%;
+    margin-left: 11%;
+    border-radius: 15px;
+    
+}
+.bonus-item{
+    width: 500px;
+    padding: 20px;
+    margin: 40px;
+    text-align: center;
+    
+}
+body{
+    font-family: 'Otomanopee One', sans-serif;
+}
